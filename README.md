@@ -18,9 +18,9 @@ Soy un desarrollador full-stack backend apasionado por crear soluciones web robu
 
 **Proyectos destacados**
 
--   **[Proyecto 1]:** Desarrollé la pagina de Travel Zone, junto a un grupo de desarroladores, la cual es una agencia de viajes internacional que incluye tours y viejes medicos. Utilicé Nest.js, typeScript, Express.js, CORS, Nodemailer, Stripe, typeORM entre otros para construir la aplicacion que manejaba productos, ordenes, usuarios, pasarela de pagos, filtros, etc. <a href="https://github.com/PF-grupo03/PF-grupo03-BACK/tree/main">link al repositorio</a>
+-   **Travel zone:** Desarrollé la pagina de Travel Zone, junto a un grupo de desarroladores, la cual es una agencia de viajes internacional que incluye tours y viejes medicos. Utilicé Nest.js, typeScript, Express.js, CORS, Nodemailer, Stripe, typeORM entre otros para construir la aplicacion que manejaba productos, ordenes, usuarios, pasarela de pagos, filtros, etc. <a href="https://github.com/PF-grupo03/PF-grupo03-BACK/tree/main">link al repositorio</a>
 
--   **[Proyecto 2]:** Desarrolé un Ecommerce desde la parte back, Utilicé Nest.js, TypeORM, Cloudinary, Swagger-UI, TypeScript, Express.js, PostgresSQL, etc. Este proyecto cuenta con productos, ordenes, usuarios, categorias entre otros modulos. <a href="https://github.com/ThiagoMilanca/Ecommerce-Back">link al repositorio</a>
+-   **Ecommerce:** Desarrolé un Ecommerce desde la parte back, Utilicé Nest.js, TypeORM, Cloudinary, Swagger-UI, TypeScript, Express.js, PostgresSQL, etc. Este proyecto cuenta con productos, ordenes, usuarios, categorias entre otros modulos. <a href="https://github.com/ThiagoMilanca/Ecommerce-Back">link al repositorio</a>
 
 **Busco**
 
